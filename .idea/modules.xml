@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arrays/.idea/Arrays.iml" filepath="$PROJECT_DIR$/../Arrays/.idea/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BackUp/.idea/BackUp.iml" filepath="$PROJECT_DIR$/../BackUp/.idea/BackUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mathematics/.idea/Mathematics.iml" filepath="$PROJECT_DIR$/../Mathematics/.idea/Mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyCreations/.idea/MyCreations.iml" filepath="$PROJECT_DIR$/../MyCreations/.idea/MyCreations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Puzzles/.idea/Puzzles.iml" filepath="$PROJECT_DIR$/../Puzzles/.idea/Puzzles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyCodes.iml" filepath="$PROJECT_DIR$/.idea/PyCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Searching/.idea/Searching.iml" filepath="$PROJECT_DIR$/../Searching/.idea/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sorting/.idea/Sorting.iml" filepath="$PROJECT_DIR$/../Sorting/.idea/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String/.idea/String.iml" filepath="$PROJECT_DIR$/../String/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Telusko/.idea/Telusko.iml" filepath="$PROJECT_DIR$/../Telusko/.idea/Telusko.iml" />
+    </modules>
+  </component>
+</project>
